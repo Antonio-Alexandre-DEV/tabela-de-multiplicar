@@ -1,0 +1,27 @@
+.container { 
+    display:flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: darkgray;
+    height: 700px;
+    
+}
+
+#tela {
+
+   /* background-color: beige;*/
+   width: 200px;
+   height: 200px;
+  
+    
+
+    
+
+
+    
+   
+    
+} 
+
